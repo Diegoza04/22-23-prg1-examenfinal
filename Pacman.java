@@ -37,7 +37,8 @@ public class Pacman {
                             System.out.print(" ");
                         } else if (unaMatriz[laFila][laColumna] == 1) {
                             System.out.print("#");
-                        }
+                        } else if (unaMatriz[laFila][laColumna] ==2{
+                            System.out.print("");
                     }
                 }
                 System.out.println();
